@@ -1,0 +1,72 @@
+
+.card{
+    width: 250px;
+    margin: 3px;    
+}
+
+#selectimage{
+    color: #000000;
+    text-align: center;
+    font-family: poppins;
+}
+.galarycard{
+    background-color: rgb(0, 0, 0);
+}
+.galarycard:hover{
+    scale: 1.5;
+    filter: brightness(0.7);
+    transition: scale 300ms ease-in;
+   
+    
+}
+#selectsecion{
+    width: 250px;
+    float: left;
+    margin-bottom: 1em;
+    padding: 0.2em;
+    margin-left: 0%;
+    background-color: rgba(7, 128, 241, 0.678);
+    padding-top: 0.5em;
+  
+    border-radius: 0.5em;
+}
+.selectArea{
+    margin-left: 25%;
+    width: 100%;
+    margin-right: 15%;
+}
+#txtcontext1{
+    width: 100%;
+    background-color: rgba(102, 51, 153, 0.281);
+ 
+    float: left;
+}
+#bodycard{
+    height: 10%;
+    background-color: rgba(0, 0, 0, 0.575);
+}
+#galaryhead{
+    font-family: poppins;
+}
+#headingimagegallery{
+    background-color: rgba(51, 133, 209, 0.349);
+}
+.ruel{
+    border-top: 2px solid rgb(0, 0, 0);
+    width: 50%;
+  
+}
+.imgcontext{
+    text-align: center;
+    padding: -25%;
+}
+#imgdelete{
+    margin-left: 30%;
+}
+#imgdelete:hover{
+    margin-left: 30%;
+    background-color: red;
+}
+.col-md-9{
+    margin-left: -4%;
+}

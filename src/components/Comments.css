@@ -1,0 +1,62 @@
+.Head{
+    color: blue;
+    text-align:center;
+}
+.CommentsAdd{
+    width: 5em;
+    height: 2em;
+    background-color: royalblue;
+    color: white;
+    padding: auto;
+    
+
+   
+}
+
+
+  
+.submitbtn{
+    margin: 1em;
+    margin-left: 8%;
+
+}
+
+.typingarea{
+    margin-left:50px;
+    
+}
+.typingarea{
+    width: 80%;
+    margin-top: 1em;
+    margin-left: 1em;
+    height: 5em;
+    margin-left: 5%;
+}
+.ulist{
+ 
+  padding-bottom: 5em;
+   
+}
+.final{
+    width: 100%;
+    height: 10vh;
+    background-color: royalblue;
+}
+
+
+.commentstext{
+   color: rebeccapurple;
+   text-align: justify
+} 
+.Box{
+    border: 2px solid rgba(20, 160, 202, 0.788);
+    border-radius: 1em;
+    padding: 1em;
+    margin-bottom: 1em;
+
+}
+#count{
+    color: rgb(0, 0, 0);
+    margin-left: 1em;
+  
+}

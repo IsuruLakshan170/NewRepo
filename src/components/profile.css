@@ -1,0 +1,326 @@
+body{
+    background-color: transparent;
+}
+
+.dashboad2{
+    background: url("../images/teacher-reg.jpg");
+    width: 100%;
+    float: left;
+    height: 100em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.left{
+    background-color: rgba(15, 31, 179, 0.63);
+    width: 20%;
+    float: left;
+    height: 100%;
+}
+.right1{
+    width: 80%;
+    height: 100%;
+    float:  left;
+    background-size: 100%;    
+    margin-top: -6px;
+    background-repeat: no-repeat;
+    background-size: 100%;    
+    
+}
+
+.Userdetails{
+    font-size: 1em;
+    color: rgb(0, 0, 0);
+    float: left;
+    margin-left: 2em;
+    
+
+}
+.createBtn{
+    margin-right: 3em;
+    margin-top: 5em;
+    margin-left: 5em;
+}
+.left-bar-dashboard1{
+    color: rgba(0, 2, 136, 0.767);
+    background-color: rgba(255, 255, 255, 0.712);
+    width: 70%;
+    border-radius:  8px  8px 8px  8px;
+    margin-right: 10px;
+    padding: 20px;
+    margin-left: 10%;
+    margin-top: 10%;
+    text-align: center;
+    font-weight: bold;
+    font-size:1.2vw;
+}
+.left-bar-dashboard1:hover{
+    
+    background-color: rgba(74, 80, 78, 0.61);
+    
+}
+.left-bar-paths1{
+    width: 90%;
+    height: 200px;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-right: 10;
+    
+}
+.left-bar-button1{
+    border-radius:  6px ;
+    float: right;
+    margin-right: 10%;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+   background-color: rgba(214, 214, 214, 0.308);
+   padding:5% 5% 5% 5%;
+   margin-bottom: 6px;
+   width: 70%;
+   text-align: center;
+   font-size:1vw;
+}
+.left-bar-button1:hover{
+    border-radius:  6px ;
+    float: right;
+    margin-right: 10%;
+    font-weight: bold;
+    color: black;
+   background-color: rgba(57, 129, 223, 0.658);
+   padding:5% 5% 5% 5%;
+   margin-bottom: 6px;
+   width: 70%;
+   text-align: center;
+   font-size:1vw;
+}
+
+
+
+
+
+.left-dash-img1{
+   
+    color: black;
+    background: url("../images/school.jpg");
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    margin-top: 52%;
+
+    
+}
+
+.img1:hover {
+    scale: 1.02;
+    filter: brightness(0.8);
+    transition: scale 300ms ease-in;
+  }
+.section2-middle-box1{
+    width: 30%;
+    height: auto;
+    background-color: rgba(88, 179, 182, 0.808);
+    margin-left: 10%;
+    border-radius: 10px;
+    padding-bottom: 2em;
+}
+.section2-middle-h1{
+    margin-top: 1em;
+    margin-left: 10%;
+    margin-bottom: 1em;
+    color: rgb(3, 4, 88);
+}
+.section2-middle-h22{
+    color: rgb(0, 0, 0);
+    margin-left: 10%;
+    padding-top: 10%;
+    font-size: 2em;
+}
+.section2-middle-p1{
+    color: white;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+
+.section2-middle-p2{
+    color: white;
+    margin-left: 10%;
+    padding-top: 10%;
+    width: auto;
+}
+.section1-right-h11{
+    color: rgb(0, 0, 0);
+     background-color: transparent;
+     margin-left: 2%;
+
+
+}
+.section1-right-p1{
+   
+    margin-left: 10%;
+    padding-top: 10px;
+    font-size: 2em;
+    font-weight: bold;
+
+}
+.re-Total1{
+    width: 20%;
+    height: 80px;
+    background-color: rgba(83, 112, 175, 0.747);
+    margin-left: 5%;
+    background-image: url("../images/groups.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    border: 2px solid #000000;
+    float: left;
+}
+.re-to1-p1{
+    padding-right:10% ;
+    text-align: right;
+    color: white;
+    padding-top: 1%;
+}
+.re-to1-p2{
+    padding-right:5% ;
+    text-align: right;
+    color: white;
+    font-size: 1em;
+}
+.re-Total2{
+    width: 20%;
+    height: 80px;
+    background-color: rgba(45, 185, 52, 0.747);
+    margin-left: 5%;
+    background-image: url("../images/groups.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    border: 2px solid #000000;
+    float: left;
+}
+.re-Total3{
+    width: 20%;
+    height: 80px;
+    background-color: rgba(218, 221, 41, 0.747);
+    margin-left: 5%;
+    background-image: url("../images/groups.png");
+    background-repeat: no-repeat;
+    background-size: 40%;
+    border: 2px solid #000000;
+    float: left;
+}
+.second-content1{
+  
+    background: url("../images/second-content.jpg") no-repeat 0 50%;
+    width: 100%;
+    float: left;
+    height: 50em;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  
+}
+.reg-name{
+    font-size: 1.5em;
+   
+    color: rgb(252, 252, 252);
+    font-weight: bold;
+
+}
+.section2-middle{
+    background-color: rgb(58, 56, 59);
+    width: 100%;
+    float: left;
+    height: 600px;
+}
+.second2{
+    background-color: burlywood;
+    width: 100%;
+}
+.right-content1{
+    margin-top: 0%;
+    height: 200px;
+    width: 100%;
+    background-color: rgba(3, 3, 3, 0.836);
+ 
+}
+.Schooname{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 1em;
+}
+.right-content2{
+    
+    margin-top: 0%;
+    height: 200px;
+    width: 100%;
+    background-color: rgba(3, 3, 3, 0.973);
+}
+@media screen and (max-width: 768px) {
+   
+    .Schooname{
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 0.1em;
+        font-size: 2rem;
+        text-align: center;
+        margin-top: 1em;
+    }
+    .section2-middle-box1{
+        width: 80%;
+        height: auto;
+        background-color: rgba(88, 179, 182, 0.808);
+        margin-left: 10%;
+        border-radius: 10px;
+        padding-bottom: 2em;
+        padding-right: 2em;
+    }
+    .section2-middle-h1{
+        margin-top: 1em;
+        margin-left: 10%;
+        margin-bottom: 1em;
+        color: rgb(3, 4, 88);
+    }
+    .section2-middle-h22{
+        color: rgb(0, 0, 0);
+        margin-left: 10%;
+        padding-top: 10%;
+        font-size: 2em;
+    }
+    .section2-middle-p1{
+        color: white;
+        margin-left: 10%;
+        padding-top: 10%;
+        margin-right: 2em;
+    }
+    
+    .section2-middle-p2{
+        color: white;
+        margin-left: 10%;
+        padding-top: 10%;
+        width: auto;
+    }
+    .section1-right-h11{
+        color: rgb(0, 0, 0);
+         background-color: transparent;
+         margin-left: 2%;
+    
+    
+    }
+    .section1-right-p1{
+       
+        margin-left: 10%;
+        padding-top: 10px;
+        font-size: 2em;
+        font-weight: bold;
+    
+    }
+  }
+
+
+  .fotter-main{
+      background-color: black;
+  }

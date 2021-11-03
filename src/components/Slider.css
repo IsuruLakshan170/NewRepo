@@ -1,0 +1,69 @@
+
+.slider{
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.slides{
+    width: 500%;
+    height: 300px;
+    display: flex;
+    
+}
+
+.slides input{
+    display: none;
+
+}
+.slide{
+    width: 20%;
+    transition: 2s;
+}
+.slide img{
+    width: 400px;
+    height: 300px;
+    
+}
+.boxRadio{
+    float: left;
+    margin-left: 0%;
+}
+.navigation-manual{
+    position: absolute;
+    width: 200px;
+    margin-top: -40px;
+    display: flex;
+    justify-content: center;
+}
+
+.manual-btn{
+    border:2px solid rebeccapurple;
+    padding: 5px;
+    border-radius: 18px;
+    cursor: pointer;
+    transition: 1s;
+}
+.manual-btn:not(:last-child){
+    margin-right:40px;
+}
+
+.manual-btn:hover{
+    background: darkblue;
+}
+#radio1:checked ~ .first{
+    margin-left: 0;
+}
+#radio2:checked ~ .first{
+    margin-left: -20%;
+}
+#radio3:checked ~ .first{
+    margin-left: -40%;
+}
+#radio4:checked ~ .first{
+    margin-left: -60%;
+}
+
+
+
+

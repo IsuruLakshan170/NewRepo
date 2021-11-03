@@ -1,0 +1,86 @@
+.btn{
+    background-color: rgba(39, 49, 184, 0.864);
+    color: white;
+}
+.user-list1{
+    height: 400px;
+    width: 300px;
+    float: left;
+    background-color: rgba(32, 33, 34, 0.603);
+    border-radius: 10px;
+    font-size: 2.5rem;
+    color: white;
+}
+
+.connectU1{
+    margin-top: 2vh;
+}
+.connectUh5{
+    color: yellow;
+    margin-top: 2vh;
+}
+.lobby{
+    
+    width: 100px;
+    background-color: rgba(36, 31, 31, 0.541);
+    height: 100px;
+   margin: 100px;
+   margin-bottom: 100px;
+}
+.name{
+    margin: 10px;
+    width: 100px;
+    float: left;
+}
+.join{
+    margin: 10px;
+    background-color: blue;
+    color: white;
+    width: 60px;
+}
+.room{
+    margin: 10px;
+    width: 100px;
+    float: left;
+}
+#send{
+    width: 100px;
+    float: right;
+    color: white;
+    background-color: black;
+
+    
+}
+
+#typing{
+    width: 300px;
+    float: left;
+    color: white;
+    margin-top: 0px;
+    margin-right: 0px;
+    background-color: rgba(39, 39, 36, 0.5);
+}
+#msg-container{
+    background-color: rgba(21, 29, 24, 0.637);
+}
+#Leave{
+    border:none;
+    float: left;
+    margin-left: 5vh;
+    background-color: rgba(212, 37, 37, 0.932);
+}
+#Leave:hover{
+    border:none;
+    float: left;
+    margin-left: 5vh;
+    background-color: red;
+   
+}
+#primary{
+    color: white;
+}
+#secondry{
+
+    color: black;
+    background-color:white ;
+}
