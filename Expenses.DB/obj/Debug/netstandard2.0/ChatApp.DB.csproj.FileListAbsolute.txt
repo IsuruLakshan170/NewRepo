@@ -1,0 +1,90 @@
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\bin\Debug\netstandard2.0\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.DB\obj\Debug\netstandard2.0\ChatApp.DB.pdb

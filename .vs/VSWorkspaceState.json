@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Expenses.Core",
+    "\\Expenses.Core\\CustomExceptions",
+    "\\Expenses.Core\\DTO",
+    "\\Expenses.Core\\Utilities",
+    "\\Expenses.DB",
+    "\\Expenses.WebApi",
+    "\\Expenses.WebApi\\Controllers",
+    "\\Expenses.WebApi\\Hub"
+  ],
+  "SelectedNode": "\\Expenses.WebApi\\Controllers\\EmployeeController.cs",
+  "PreviewInSolutionExplorer": false
+}

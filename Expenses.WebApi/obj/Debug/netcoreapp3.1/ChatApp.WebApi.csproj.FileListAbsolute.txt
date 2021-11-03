@@ -1,0 +1,947 @@
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\expenses.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-1.8\copy\1.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.2\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\v-2.7\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\New folder\3.1\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\final\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Controllers\Properties\launchSettings.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.exe
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.deps.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.runtimeconfig.dev.json
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNet.Identity.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Net.WebSockets.WebSocketProtocol.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.Core.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\bin\Debug\netcoreapp3.1\ChatApp.DB.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.AssemblyReference.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfoInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.AssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CoreCompileInputs.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.Manifest.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\staticwebassets\ChatApp.WebApi.StaticWebAssets.xml
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\scopedcss\bundle\ChatApp.WebApi.styles.css
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.RazorTargetAssemblyInfo.cache
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.csproj.CopyComplete
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.dll
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.pdb
+E:\5thSemester\Web-Application-Development-EE5209\Utube-chat-application-seris\SignIn-up\current\3.8\3.8\wpf\wpf\ChatApp.webapi\Expenses.WebApi\obj\Debug\netcoreapp3.1\ChatApp.WebApi.genruntimeconfig.cache
