@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.DB\\ChatApp.DB.csproj": {}
+    "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {}
   },
   "projects": {
-    "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.DB\\ChatApp.DB.csproj": {
+    "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.DB\\ChatApp.DB.csproj",
+        "projectUniqueName": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
         "projectName": "ChatApp.DB",
-        "projectPath": "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.DB\\ChatApp.DB.csproj",
+        "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
         "packagesPath": "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\",
-        "outputPath": "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.DB\\obj\\",
+        "outputPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

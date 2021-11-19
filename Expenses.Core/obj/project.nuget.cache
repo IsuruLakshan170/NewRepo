@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M+a78s68D+yNvbtL4TIfoGh4vvyZDaOQNuwhva04jytOfAptvmHcVSDkrHJO5FKQq+LcRz/dIgJ98cDkWCXrUg==",
+  "dgSpecHash": "L36bq5V/+Duq8Nbw9qvyBPtpIAW/rhDp6XOjnb8ktxKkuuy1oQUGlDbFO9gfpR+vuXV0qDfMjAxRkszUANfjLw==",
   "success": true,
-  "projectFilePath": "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.Core\\ChatApp.Core.csproj",
+  "projectFilePath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.Core\\ChatApp.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\microsoft.aspnet.identity.core\\2.2.3\\microsoft.aspnet.identity.core.2.2.3.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

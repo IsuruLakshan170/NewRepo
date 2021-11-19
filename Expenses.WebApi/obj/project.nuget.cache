@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RrnalbBWZPi4goRc/MTB4OwVMxFvpkIC/9x8pToITLUpxgtYc32zAXTtKV9rRCYUAyGySw5gAgyrCmVYcE6Ymg==",
+  "dgSpecHash": "XWzcbt/JHXMe20CnFmMTISuiBRk5eLIP4BBMCf+YxRYupptv2CePO6dL8rHb25biyJVIfDLxwJa0smP0tCZ90w==",
   "success": true,
-  "projectFilePath": "E:\\5thSemester\\Web-Application-Development-EE5209\\Utube-chat-application-seris\\SignIn-up\\current\\3.8\\3.8\\wpf\\wpf\\ChatApp.webapi\\Expenses.WebApi\\ChatApp.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\google.apis\\1.50.0\\google.apis.1.50.0.nupkg.sha512",
     "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\google.apis.auth\\1.50.0\\google.apis.auth.1.50.0.nupkg.sha512",
