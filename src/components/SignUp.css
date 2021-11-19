@@ -1,306 +1,81 @@
 
 .Background12{
-display: flex;
-font-family: poppins;
-background-repeat: inherit;
-background: url("../images/school.jpg");
-background-repeat: no-repeat;
-background-size: 100%;   
-width: 100%;
-float: left;
-
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-
-}
-.fot{
-  background-color: black;
-}
-.left1 {
+  display: flex;
+  font-family: poppins;
+  background-repeat: inherit;
+  background: url("../images/school.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;   
+  width: 100%;
+  float: left;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  }
+  .fot{
+    background-color: black;
+  }
+  .left1 {
+      height: 80vh;
+      width: 35vw;
+      margin-top : 3em;
+      margin-left: 15em;
+      margin-right:0em ;
+      margin-bottom:0em ;
+      background-color: rgb(243, 243, 243);
+      border-radius: 20px 0px 0px 20px;
+  
+    }
+  
+  .right2{
+    background-color:rgb(41, 43, 145);
     height: 80vh;
     width: 35vw;
-    margin-top : 3em;
-    margin-left: 15em;
-    margin-right:0em ;
-    margin-bottom:0em ;
-    background-color: rgb(243, 243, 243);
-    border-radius: 20px 0px 0px 20px;
-
-  }
-
-.right2{
-  background-color:rgb(41, 43, 145);
-  height: 80vh;
-  width: 35vw;
-  color: rgb(32, 22, 179);
-  /**/
-  margin-top: 3em;
-  margin-right: 5em;
-  margin-left: 0em;
-  margin-bottom: 10em;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-self: center;
-  border-radius: 0px 20px 20px 0px;
-
-}
-.Body{
+    color: rgb(32, 22, 179);
+    /**/
+    margin-top: 3em;
+    margin-right: 5em;
+    margin-left: 0em;
+    margin-bottom: 10em;
     display: flex;
-    font-family: poppins;
-    margin: 0em;
-
-    float: left;
-    margin-right: 0;
-    background-color: royalblue;
-}
-.mb{
-  /* text-align: center; */
-  width: 20%;
-  vertical-align: center;
-  margin-top: 5px;
-  background-color: rgba(179, 28, 28, 0);
-  background: transparent;
-
-  /* border-radius: 50px; */
-  border-width: none;
-  outline: none;
-  color: rgba(34, 148, 59, 0.884);
-  float: left;
-    
-}
-
-.background-left-h1{
-  text-transform: uppercase;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  font-size: 2.3rem;
-  text-align: center;
-  margin-top: 1.5em;
-}
-
-.background-left-p1{
-  text-transform: uppercase;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  font-size: 1.5rem;
-  text-align: center;
-  margin-top: 2.2em;
-  color: rgb(25, 33, 102);
-}
-
-.background-left-p2{
-
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  font-size: 1.5rem;
-  text-align: center;
-  padding-left: 15%;
-  padding-right: 15%;
-  margin-top: 2.2em;
-  color: rgb(0, 0, 0);
-}
-.create-acount1{
-  text-transform: uppercase;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  font-size: 2rem;
-  text-align: center;
-  margin-top: 1em;
-  color: rgb(208, 210, 231);
-}
-.hr1{
-  margin-top: 1.5rem;
-  border: 1px solid #ced4da;
-  width: 50vh;
-}
-
-
-
-.mb-3{
-  /* text-align: center; */
-  width: 8vw;
-  vertical-align: center;
-
-  background-color: rgba(179, 28, 28, 0);
-  background: transparent;
-
-  /* border-radius: 50px; */
-  border-width: none;
-  outline: none;
-  color: rgba(148, 34, 34, 0);
-  float: left;
-    
-}
-
-
-.form-control1{
- float: left;
- display: block;
- margin-left: 8%;
- margin-right: 8%;
-
-}
-
-
-.mb-3:hover{
-  background-color: rgba(99, 84, 99, 0);
-}
-
-
-#id{
-  background-color: rgb(12, 173, 173);
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-self: center;
+    border-radius: 0px 20px 20px 0px;
   
-
-}
-
-#sign{
- float:left;
- 
- background-color: rgb(0, 119, 255);
-
-
-}
-.signbtn1{
-margin-top: 5px;
-float: left;
-margin-left: 30%;
-
-}
-
-
-.signbtn1:hover{
+  }
+  .Body{
+      display: flex;
+      font-family: poppins;
+      margin: 0em;
   
-  background-color: rgb(0, 0, 0);
-
-}
-
-.background-left-h1{
-  text-transform: uppercase;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  font-size: 2.3rem;
-  text-align: center;
-  margin-top: 1.5em;
-}
-
-.background-left-p1{
-  text-transform: uppercase;
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  font-size: 2rem;
-  text-align: center;
-  margin-top: 2.2em;
-  color: rgb(25, 33, 102);
-}
-
-.hr{
-  margin-top: 1.5rem;
-  border: 1px solid #ced4da;
-  width: 50vh;
-}
-
-
-
-.mb{
-  /* text-align: center; */
-  width: 80%;
-  vertical-align: center;
-
-  background-color: rgba(179, 28, 28, 0);
-  background: transparent;
-
-  /* border-radius: 50px; */
-  border-width: none;
-  outline: none;
-  color: rgba(34, 148, 59, 0.884);
-  float: left;
-    
-}
-
-
-
-
-.mb-3:hover{
-  background-color: rgba(99, 84, 99, 0);
-}
-
-
-#id{
-  background-color: rgb(12, 173, 173);
-  
-
-}
-
-#sign{
- float:left;
- 
- background-color: rgb(0, 119, 255);
-
-
-}
-
-
-
-
-
-@media screen and (max-width: 1200px) {
- 
-.left1 {
-  height: 80vh;
-  width: 35vw;
-  margin-top : 3em;
-  margin-left: 15em;
-  margin-right:0em ;
-  margin-bottom:0em ;
-  background-color: rgb(243, 243, 243);
-  border-radius: 20px 0px 0px 20px;
-
-}
-
-.right2{
-background-color:rgb(34, 36, 151);
-height: 80vh;
-width: 35vw;
-color: rgb(32, 22, 179);
-/**/
-margin-top: 3em;
-margin-right: 5em;
-margin-left: 0em;
-margin-bottom: 10em;
-display: flex;
-flex-direction: column;
-flex-wrap: wrap;
-align-self: center;
-border-radius: 0px 20px 20px 0px;
-
-}
-  .background12{
-      background: url("../images/school.jpg");
-      width: 100%;
       float: left;
-    
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      padding-bottom: 5em;
+      margin-right: 0;
+      background-color: royalblue;
+  }
+  .mb{
+    /* text-align: center; */
+    width: 20%;
+    vertical-align: center;
+    margin-top: 5px;
+    background-color: rgba(179, 28, 28, 0);
+    background: transparent;
   
+    /* border-radius: 50px; */
+    border-width: none;
+    outline: none;
+    color: rgba(34, 148, 59, 0.884);
+    float: left;
+      
   }
-  .create-acount1{
-    text-transform: uppercase;
-    font-weight: bold;
-    letter-spacing: 0.1em;
-    font-size: 1.3em;
-    text-align: center;
-    margin-top: 1em;
-    color: rgb(208, 210, 231);
-  }
+  
   .background-left-h1{
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 0.1em;
-    font-size: 2rem;
+    font-size: 2.3rem;
     text-align: center;
     margin-top: 1.5em;
   }
@@ -314,44 +89,193 @@ border-radius: 0px 20px 20px 0px;
     margin-top: 2.2em;
     color: rgb(25, 33, 102);
   }
-
+  
+  .background-left-p2{
+  
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 1.5rem;
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 2.2em;
+    color: rgb(0, 0, 0);
+  }
+  .create-acount1{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 1em;
+    color: rgb(208, 210, 231);
+  }
+  .hr1{
+    margin-top: 1.5rem;
+    margin-left: 4em;
+    border: 1px solid #ced4da;
+    width: 50vh;
+  }
+  
+  
+  .mb-3{
+    /* text-align: center; */
+    width: 8vw;
+    vertical-align: center;
+  
+    background-color: rgba(179, 28, 28, 0);
+    background: transparent;
+  
+    /* border-radius: 50px; */
+    border-width: none;
+    outline: none;
+    color: rgba(148, 34, 34, 0);
+    float: left;
+      
+  }
+  
+  
+  .form-control1{
+   float: left;
+   display: block;
+   margin-left: 8%;
+   margin-right: 8%;
+  
+  }
+  
+  
+  .mb-3:hover{
+    background-color: rgba(99, 84, 99, 0);
+  }
+  
+  
+  #id{
+    background-color: rgb(12, 173, 173);
+    
+  
+  }
+  
+  #sign{
+   float:left;
+   
+   background-color: rgb(0, 119, 255);
+  
+  
+  }
+  .signbtn1{
+  margin-top: 5px;
+  float: left;
+  margin-left: 30%;
+  
+  }
+  
+  
+  .signbtn1:hover{
+    
+    background-color: rgb(0, 0, 0);
+  
+  }
+  
+  .background-left-h1{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 2.3rem;
+    text-align: center;
+    margin-top: 1.5em;
+  }
+  
+  .background-left-p1{
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.1em;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 2.2em;
+    color: rgb(25, 33, 102);
+  }
+  
   .hr{
     margin-top: 1.5rem;
     border: 1px solid #ced4da;
     width: 50vh;
   }
-  .form-control1{
+  
+  
+  
+  .mb{
+    /* text-align: center; */
+    width: 80%;
+    vertical-align: center;
+  
+    background-color: rgba(179, 28, 28, 0);
+    background: transparent;
+  
+    /* border-radius: 50px; */
+    border-width: none;
+    outline: none;
+    color: rgba(34, 148, 59, 0.884);
     float: left;
-    display: block;
-    margin-left: 20%;
-    margin-right: 8%;
-   
-   }.signbtn1{
-    margin-top: 5px;
-    float: left;
-    margin-left: 10%;
+      
+  }
+  
+  
+  
+  
+  .mb-3:hover{
+    background-color: rgba(99, 84, 99, 0);
+  }
+  
+  
+  #id{
+    background-color: rgb(12, 173, 173);
     
-    }
+  
+  }
+  
+  #sign{
+   float:left;
    
-}
-
-
-
-
-
-
-
-
-@media screen and (max-width: 768px) {
-    .left1 {
-      display: none;
-    }
-    .right2 {
-      width: 90vw;
-      border-radius: 20px 20px 20px 20px;
-      margin: 1em;
-      padding-right: 5em;
-    }
+   background-color: rgb(0, 119, 255);
+  
+  
+  }
+  
+  
+  
+  
+  
+  @media screen and (max-width: 1200px) {
+   
+  .left1 {
+    height: 80vh;
+    width: 35vw;
+    margin-top : 3em;
+    margin-left: 15em;
+    margin-right:0em ;
+    margin-bottom:0em ;
+    background-color: rgb(243, 243, 243);
+    border-radius: 20px 0px 0px 20px;
+  
+  }
+  
+  .right2{
+  background-color:rgb(34, 36, 151);
+  height: 80vh;
+  width: 35vw;
+  color: rgb(32, 22, 179);
+  /**/
+  margin-top: 3em;
+  margin-right: 5em;
+  margin-left: 0em;
+  margin-bottom: 10em;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-self: center;
+  border-radius: 0px 20px 20px 0px;
+  
+  }
     .background12{
         background: url("../images/school.jpg");
         width: 100%;
@@ -363,12 +287,6 @@ border-radius: 0px 20px 20px 0px;
         padding-bottom: 5em;
     
     }
-    .hr{
-      margin-top: 1.5rem;
-      border: 1px solid #ced4da;
-      width: 20vh;
-      margin-left: 5em;
-    }
     .create-acount1{
       text-transform: uppercase;
       font-weight: bold;
@@ -376,18 +294,107 @@ border-radius: 0px 20px 20px 0px;
       font-size: 1.3em;
       text-align: center;
       margin-top: 1em;
-      margin-left: 4em;
       color: rgb(208, 210, 231);
     }
-    .signbtn1{
+    .background-left-h1{
+      text-transform: uppercase;
+      font-weight: bold;
+      letter-spacing: 0.1em;
+      font-size: 2rem;
+      text-align: center;
+      margin-top: 1.5em;
+    }
+    
+    .background-left-p1{
+      text-transform: uppercase;
+      font-weight: bold;
+      letter-spacing: 0.1em;
+      font-size: 1.5rem;
+      text-align: center;
+      margin-top: 2.2em;
+      color: rgb(25, 33, 102);
+    }
+  
+    .hr{
+      margin-top: 1.5rem;
+      border: 1px solid #ced4da;
+      width: 50vh;
+    }
+    .form-control1{
+      float: left;
+      display: block;
+      margin-left: 20%;
+      margin-right: 8%;
+     
+     }.signbtn1{
       margin-top: 5px;
       float: left;
-      margin-left: 20%;
+      margin-left: 10%;
       
       }
-    
+     
   }
-
-
- 
-
+  
+  
+  
+  
+  
+  
+  
+  
+  @media screen and (max-width: 768px) {
+      .left1 {
+        display: none;
+      }
+      .right2 {
+        width: 90vw;
+        border-radius: 20px 20px 20px 20px;
+        margin: 1em;
+        padding-right: 5em;
+      }
+      .background12{
+          background: url("../images/school.jpg");
+          width: 100%;
+          float: left;
+        
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          padding-bottom: 5em;
+      
+      }
+      .hr{
+        margin-top: 1.5rem;
+        border: 1px solid #ced4da;
+        width: 20vh;
+        margin-left: 5em;
+      }
+      .create-acount1{
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 0.1em;
+        font-size: 1.3em;
+        text-align: center;
+        margin-top: 1em;
+        margin-left: 4em;
+        color: rgb(208, 210, 231);
+      }
+      .signbtn1{
+        margin-top: 5px;
+        float: left;
+        margin-left: 20%;
+        
+        }
+  
+        #google{
+          margin-left: 3em;
+        
+        }
+        
+      
+    }
+  
+  
+   
+  
+  

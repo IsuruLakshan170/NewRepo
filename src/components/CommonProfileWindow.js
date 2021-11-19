@@ -310,7 +310,7 @@ const ProfileFormCommon = ({ profile, setIsEditing }) => {
         
         </div>
 
-        <div className="save-btn">
+        <div className="save-btn1">
                 <div style={{ marginTop: 'auto' }}>
                 
                             <div>

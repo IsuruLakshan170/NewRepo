@@ -77,8 +77,10 @@ const SignUpPage = () => {
          </div>
             
         </Form>
+            <div id="google">
+            <ThirdPartySignIns />
 
-        <ThirdPartySignIns/>
+            </div>
      </div>
      
  </div>  

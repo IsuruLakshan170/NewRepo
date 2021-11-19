@@ -162,7 +162,9 @@ body {
     font-size: 1.3em;
 
 }
-
+.divsign1{
+    margin-left: -2em;
+}
 .background-right-h1{
     padding-top: 7%;
     color: rgb(4, 7, 167);
@@ -344,9 +346,9 @@ body {
       display: none;
     }
     .right3 {
-      width: 100vw;
+      width: 150vw;
       border-radius: 20px 20px 20px 20px;
-      margin: 5em;
+      margin: 3em;
       height: 80vh;
   
       
@@ -380,7 +382,9 @@ body {
         border: 1px solid #ffffff;
         width: 40vh;
     }
-    
+    .divsign1{
+        margin-left: -2em;
+    }
   }
 
   

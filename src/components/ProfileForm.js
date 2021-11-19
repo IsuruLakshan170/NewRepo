@@ -284,7 +284,7 @@ const ProfileForm = ({ profile, setIsEditing }) => {
                 </p>
         </div>
 
-        <div className="save-btn">
+        <div className="save-btn3">
                 <div style={{ marginTop: 'auto' }}>
               
                             <div> <Button variant='primary' type='submit' id="add1" onClick={ClickHandler}>Add</Button>
