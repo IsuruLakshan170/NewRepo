@@ -9,7 +9,7 @@ import Fotter from './Fotter';
 
 const Chat = ({ sendMessage, messages, users, closeConnection }) =>
 
-{
+{//comment
   
     return (
 

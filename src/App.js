@@ -17,10 +17,6 @@ import EmployeeList from './components/EmployeeList';
 import AddminLogin from './components/AddminLogin';
 
 
-
-
-
-
 import { LoginContext} from './Helper/Context';
 const App = () => {
 
@@ -69,7 +65,6 @@ const App = () => {
 
 
 };
-
 
 
 export default App;
