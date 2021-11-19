@@ -407,7 +407,30 @@
        display: none;
         
     }
+  #third-button1{
+      float: right;
+      margin-right: 26%;
+      margin-top: 5%;
+      font-size: 1.5em;
+    
+      color: rgb(255, 255, 255);
+ 
+      padding: 10px;
+      padding-left: 1.5em;
+ 
+      text-align: center;
+      text-decoration: none;
 
+      
+     
+      
+      width:8em;
+      display: flex;
+      flex-wrap: wrap;
+    
+      
+      
+  }
     .second1-content-mid-p2{
         width: 80%;
         margin-top: 40px;
@@ -494,9 +517,19 @@
         font-weight: bolder;
         padding-top: 0px;
         font-size: 1.5em;
-        margin-top: 18%;
+        margin-top: 50%;
         padding-top: 10px;
         text-align: left;
         margin-left: 5%;
     }
+    .Heading-safe1{
+        margin-right: 40px;
+        float: right;
+        width: 40%;
+        height: 220px;
+        background-color: rgba(75, 64, 64, 0.466);
+        border-radius: 10px;
+       
+    }
+    
 }
