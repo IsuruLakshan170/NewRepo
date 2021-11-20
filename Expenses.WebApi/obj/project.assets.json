@@ -7460,11 +7460,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
       "projectName": "ChatApp.WebApi",
-      "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
+      "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
       "packagesPath": "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -7486,11 +7486,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.Core\\ChatApp.Core.csproj": {
-              "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.Core\\ChatApp.Core.csproj"
+            "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.Core\\ChatApp.Core.csproj": {
+              "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.Core\\ChatApp.Core.csproj"
             },
-            "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {
-              "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj"
+            "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {
+              "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj"
             }
           }
         }

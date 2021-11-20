@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {}
+    "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {
+    "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
+        "projectUniqueName": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
         "projectName": "ChatApp.DB",
-        "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
+        "projectPath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
         "packagesPath": "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\obj\\",
+        "outputPath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

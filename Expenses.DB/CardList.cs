@@ -27,7 +27,6 @@ namespace ChatApp.DB
         [NotMapped]
         public string ImageSrc { get; set; }
 
-        //Pascal(EmployeeName) -> Camel EmployeeID ->employeeID
-        //Camel(employeeName) -> Pascal
+      
     }
 }

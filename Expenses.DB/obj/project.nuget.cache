@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PmYWhEPHmrgXsykFaw9PbHWanRdD4btPMpQiLCTOifp3++phutgOLysl8y1MrIz9lp06WMdfAPc8Hyjv1ZXu3g==",
+  "dgSpecHash": "crlxD1ZM2+NYsSVFU0LHLQvHlgXHfbHFAAG9NBvbDzbaV9gJnp8QA1oGivSknXGhx6VB0+glgSA4USZWlxQNIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
+  "projectFilePath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.DB\\ChatApp.DB.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",

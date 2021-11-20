@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XWzcbt/JHXMe20CnFmMTISuiBRk5eLIP4BBMCf+YxRYupptv2CePO6dL8rHb25biyJVIfDLxwJa0smP0tCZ90w==",
+  "dgSpecHash": "0Iij/swdk8JYk8kZjB+fA9VAwtvDujsU0ZkQENWb7LJp0njJQ9nzs8gvs9HLotntpLdDjYIYGh7rNNVORXRIbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Isuru Lakshan\\Desktop\\Chtapp\\Backend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\Isuru Lakshan\\Desktop\\FinalChatApp\\Fronend\\NewRepo\\Expenses.WebApi\\ChatApp.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\google.apis\\1.50.0\\google.apis.1.50.0.nupkg.sha512",
     "C:\\Users\\Isuru Lakshan\\.nuget\\packages\\google.apis.auth\\1.50.0\\google.apis.auth.1.50.0.nupkg.sha512",
